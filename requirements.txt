@@ -14,7 +14,7 @@ kiwisolver==1.0.1
 matplotlib
 numpy
 pandas
-paramiko==2.4.1
+paramiko==2.10.1
 psycopg2-binary
 pyasn1==0.4.4
 pycparser==2.18
